@@ -164,7 +164,7 @@ export default function Cadastro() {
 
 const Tela = styled(SafeAreaView)`
   flex: 1;
-  background-color: #cc63d8;
+  background-image: url(https://www.temflores.com.br/public/blog/9/9-flores-que-capturam-a-alegria_g.jpg);
   padding: 26px;
 `;
 
